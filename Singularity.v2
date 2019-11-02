@@ -1,2 +1,2 @@
 Bootstrap:docker  
-From: panda292/tf-bazel-darkflow:v2
+From: panda292/tf-bazel-darkflow
